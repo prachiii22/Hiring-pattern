@@ -1,1 +1,2 @@
 # Hiring-pattern
+I have developed a project which forecasts the hiring pattern which would help the company hire the employees according to their role , demand and utility to the company in the upcoming years by using the database given by the company which shows the joining and leaving employees , the percentage by which the employees are categorized in 5 departments and the total employees per year. 
